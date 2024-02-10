@@ -1,2 +1,2 @@
-# lab_intermedio
-Datos experimentales del curso Laboratorio Intermedio
+# FISI-2551 Laboratorio Intermedio
+Datos experimentales del curso
